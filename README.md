@@ -16,11 +16,11 @@ assignments:
 12. dumb 8 queens
 13. n-queens
 14. Tower of Hanoi (non-recursive)
-15a. 8 #'s in a cross (recursive)
-15b. stable marraige (recursive)
+15. 8 #'s in a cross (recursive)
+15. stable marraige (recursive)
 16. k-bishops on nxn board 
-17a. shortest path (memoization)
-17b. shortest path (bottom up)
+17. shortest path (memoization)
+17. shortest path (bottom up)
 18. rat class
 19. continued fractions
 20. first day as intern
