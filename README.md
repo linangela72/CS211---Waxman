@@ -1,6 +1,7 @@
 # CS211---Waxman
 Theses are the codes i wrote for the assignments in cs211
 I took this class in spring 2017
+
 assignments:
 1.  Perfect square
 2.  Equivalent arrays
@@ -25,4 +26,5 @@ assignments:
 19. continued fractions
 20. first day as intern
 
-I will be posting the assignemtns up after the semester is over.
+I will post more if I find my other code files.
+do not copy code but use it to help you if your stuck and try to understand it.
