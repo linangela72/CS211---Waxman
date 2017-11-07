@@ -10,15 +10,15 @@ assignments:
 6.  arrays as pointers
 7.  8 #'s in a cross --->8cross.cpp
 8.  score the race --->race.cpp
-9.  fancy 8 queens output
+9.  fancy 8 queens output --->fancyqueenoutput.cpp
 10. integration
 11. stable marriage
-12. dumb 8 queens
-13. n-queens
+12. dumb 8 queens --->dumbqueen.cpp
+13. n-queens --->nqueens.cpp
 14. Tower of Hanoi (non-recursive)
-15. 8 #'s in a cross (recursive)
+15. 8 #'s in a cross (recursive) --->recursivecross.cpp
 15. stable marraige (recursive)
-16. k-bishops on nxn board 
+16. k-bishops on nxn board --->nbishops.cpp
 17. shortest path (memoization)
 17. shortest path (bottom up)
 18. rat class
